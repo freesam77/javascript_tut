@@ -1,1 +1,1 @@
-# javascript_tut
+# CoderAcademy
